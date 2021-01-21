@@ -41,8 +41,8 @@ services:
     volumen:
       - prestashop_data:/var/www/html
     networks: 
-      -backend-network
-      -frontend-network
+      - backend-network
+      - frontend-network
     restart: always
     depends_on: 
       - mysql
