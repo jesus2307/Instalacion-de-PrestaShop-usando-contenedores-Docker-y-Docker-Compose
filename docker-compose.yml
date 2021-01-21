@@ -5,7 +5,6 @@ services:
 
   mysql:
     image: mysql:5.7
-    comand: --default-authentication-plugin=mysql_native_password
     ports: 
       - 3306:3306
     environment: 
