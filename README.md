@@ -15,6 +15,6 @@ A continuación se describen muy brevemente algunas de las tareas que tendrá qu
 ## La intalacion se completara con :
 https://github.com/jesus2307/iaw-Pr-ctica-PrestaShop/blob/main/image.png
 #### para poder iniciar sesion  habra que borrar la carpeta installa:
-rm -rf install/
+rm -rf */install/
 ###### Dirección de correo electrónico:	jesus@gmail.com	 
 ###### Contraseña:	usuario123
