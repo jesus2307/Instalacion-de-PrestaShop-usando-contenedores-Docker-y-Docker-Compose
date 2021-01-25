@@ -14,3 +14,5 @@ A continuación se describen muy brevemente algunas de las tareas que tendrá qu
 #### Buscar cuál es la dirección IP pública de su instancia en AWS y comprobar que puede acceder a los servicios de PrestaShop y phpMyAdmin desde una navegador web.
 ## La intalacion se completara con :
 https://github.com/jesus2307/iaw-Pr-ctica-PrestaShop/blob/main/image.png
+###### Dirección de correo electrónico:	jesus@gmail.com	 
+###### Contraseña:	usuario123
