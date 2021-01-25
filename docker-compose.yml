@@ -37,7 +37,7 @@ services:
       - 80:80
     environment: 
       - DB_SERVER=mysql
-    volumen:
+    volumes:
       - prestashop_data:/var/www/html
     networks: 
       - backend-network
