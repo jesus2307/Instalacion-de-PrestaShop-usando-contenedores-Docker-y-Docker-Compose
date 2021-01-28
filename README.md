@@ -16,6 +16,6 @@ A continuación se describen muy brevemente algunas de las tareas que tendrá qu
 #### Rellenamos el asistente:
 https://github.com/jesus2307/iaw-Pr-ctica-PrestaShop/blob/main/image.png
 #### para poder iniciar sesion  habra que borrar la carpeta install
-https://github.com/jesus2307/iaw-Pr-ctica-PrestaShop/blob/main/image.png
+https://github.com/jesus2307/iaw-Pr-ctica-PrestaShop/blob/main/imagen%202.PNG
 ###### Dirección de correo electrónico:	jesus@gmail.com	 
 ###### Contraseña:	usuario123
